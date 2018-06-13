@@ -1,0 +1,15 @@
+{
+  "name": "tut-d3vx",
+  "version": "1.0.0",
+  "description": "line chart with hovering line",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vx/event": "^0.0.165",
+    "@vx/mock-data": "^0.0.165",
+    "@vx/scale": "^0.0.165",
+    "@vx/shape": "^0.0.165",
+    "d3": "^5.4.0",
+    "react": "^16.4.0"
+  }
+}
